@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JhonCleyton
 - 👀 I’m interested in new technology learning
-- 🌱 I’m currently learning Python,HTML, JS, C#
+- 🌱 atualmente estou desenvolvendo em PHP, Python,HTML, JS, C#
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-cleyton-souza-freire-2670a023a/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhon97cleyton/)
