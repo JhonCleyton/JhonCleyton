@@ -20,9 +20,28 @@ Desenvolvedor Fullstack com 4 anos de experiência, atualmente trabalhando na P&
 - **Ferramentas:** Git, GitHub, VS Code
 - **Frameworks:** Laravel, Django
 
-## 📈 Experiência Profissional
-- **P&S Industrias** - Desenvolvedor Fullstack
-- **JC Bytes** - Fundador e Desenvolvedor Principal
+## 👨‍💼 Histórico Profissional
+
+### P&S Indústria de Alimentos
+**Desenvolvedor Full Stack** | Out 2024 - Presente
+- Desenvolvimento e manutenção de sistemas de gestão empresarial
+- Implementação de soluções para otimização de processos industriais
+- Integração de sistemas e automação de processos
+- Stack: PHP, Laravel, JavaScript, MySQL
+
+### Alianz Protecar - Proteção Veicular
+**Desenvolvedor Web** | Abr 2021 - Jan 2024
+- Desenvolvimento de plataforma de gestão de proteção veicular
+- Implementação de sistemas de controle de clientes e sinistros
+- Criação de interfaces responsivas e intuitivas
+- Stack: PHP, JavaScript, Bootstrap, MySQL
+
+### JC Bytes
+**Fundador e Desenvolvedor** | 2021 - Presente
+- Desenvolvimento de soluções personalizadas para clientes
+- Gestão de projetos e equipe
+- Consultoria em tecnologia
+- Implementação de sistemas diversos
 
 ## 🎯 Especialidades
 - Desenvolvimento Web Fullstack
@@ -36,6 +55,7 @@ Desenvolvedor Fullstack com 4 anos de experiência, atualmente trabalhando na P&
 - 📚 Leitura e Aprendizado Contínuo
 - 🎬 Filmes e Animes
 - 🏃‍♂️ Esportes
+
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-cleyton-souza-freire-2670a023a/)
