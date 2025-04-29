@@ -23,7 +23,7 @@ Desenvolvedor Fullstack com 4 anos de experiência, atualmente trabalhando na P&
 ## 👨‍💼 Histórico Profissional
 
 ### P&S Indústria de Alimentos
-**Desenvolvedor Full Stack** | Out 2024 - Presente
+**Desenvolvedor Full Stack** | Outubro 2024 - Presente
 - Desenvolvimento e manutenção de sistemas de gestão empresarial
 - Implementação de soluções para otimização de processos industriais
 - Integração de sistemas e automação de processos
