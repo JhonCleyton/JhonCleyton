@@ -18,7 +18,7 @@ Desenvolvedor Fullstack com 4 anos de experiência, atualmente trabalhando na P&
 - **Backend:** PHP, Laravel, Python
 - **Banco de Dados:** MySQL, PostgreSQL
 - **Ferramentas:** Git, GitHub, VS Code
-- **Frameworks:** Laravel, Django
+- **Frameworks:** Flask, Laravel, Django
 
 ## 👨‍💼 Histórico Profissional
 
