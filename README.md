@@ -1,66 +1,65 @@
-# 👋 Olá, eu sou Jhon Cleyton!
+# 👋 Hi, I'm Jhon Cleyton!
 
-## 👨‍💻 Sobre Mim
-Desenvolvedor Fullstack com 4 anos de experiência, atualmente trabalhando na P&S Industrias e fundador da JC Bytes. Aos 27 anos, combino paixão por tecnologia com criatividade para desenvolver soluções inovadoras.
+## 👨‍💻 About Me
+Fullstack developer with 4 years of experience, currently working at P&S Industrias and founder of JC Bytes. At 28 years old, I combine a passion for technology with creativity to develop innovative solutions.
 
-## 🚀 Principais Projetos
+## 🚀 Main Projects
 
-### Sistemas Desenvolvidos:
-- 🎮 RPG Game Engine - Engine completa para jogos RPG
-- 📊 Sistema de Gestão de Logística
-- 👥 Sistema de RH Integrado
-- 🏪 Plataforma de Gestão para Supermercados
-- 🐔 Sistema de Gestão de Aves e Cargas
-- 🌐 Aplicações Web Responsivas
+### Systems Developed:
+- 🎮 RPG Game Engine - Complete engine for RPG games
+- 📊 Logistics Management System
+- 👥 Integrated HR System
+- 🏪 Management Platform for Supermarkets
+- 🐔 Poultry and Cargo Management System
+- 🌐 Responsive Web Applications
 
-## 💻 Stack Tecnológica
+## 💻 Technology Stack
 - **Frontend:** HTML5, CSS3, JavaScript, Bootstrap
 - **Backend:** PHP, Laravel, Python
-- **Banco de Dados:** MySQL, PostgreSQL
-- **Ferramentas:** Git, GitHub, VS Code
+- **Database:** MySQL, PostgreSQL
+- **Tools:** Git, GitHub, VS Code
 - **Frameworks:** Flask, Laravel, Django
 
-## 👨‍💼 Histórico Profissional
+## 👨‍💼 Professional History
 
-### P&S Indústria de Alimentos
-**Desenvolvedor Full Stack** | Outubro 2024 - Presente
-- Desenvolvimento e manutenção de sistemas de gestão empresarial
-- Implementação de soluções para otimização de processos industriais
-- Integração de sistemas e automação de processos
+### P&S Food Industry
+**Full Stack Developer** | October 2024 - Present
+- Development and maintenance of business management systems
+- Implementation of solutions for industrial process optimization
+- Systems integration and process automation
 - Stack: Python, PHP, JavaScript, Bootstrap, PostgreSQL, MySQL
 
-### Alianz Protecar - Proteção Veicular
-**Desenvolvedor Web** | Abr 2021 - Jan 2024
-- Desenvolvimento de plataforma de gestão de proteção veicular
-- Implementação de sistemas de controle de clientes e sinistros
-- Criação de interfaces responsivas e intuitivas
+### Alianz Protecar - Vehicle Protection
+**Web Developer** | Apr 2021 - Jan 2024
+- Development of a vehicle protection management platform
+- Implementation of customer and claims control systems
+- Creation of responsive and intuitive interfaces
 - Stack: Python, PHP, JavaScript, Bootstrap, PostgreSQL, MySQL
 
 ### JC Bytes
-**Fundador e Desenvolvedor** | 2021 - Presente
-- Desenvolvimento de soluções personalizadas para clientes
-- Gestão de projetos e equipe
-- Consultoria em tecnologia
-- Implementação de sistemas diversos
+**Founder and Developer** | 2021 - Present
+- Development of customized solutions for clients
+- Project and team management
+- Technology consulting
+- Implementation of various systems
 
-## 🎯 Especialidades
-- Desenvolvimento Web Fullstack
-- Sistemas de Gestão Empresarial
-- Aplicações Responsivas
-- Integrações de API
-- Desenvolvimento de Jogos
+## 🎯 Specialties
+- Fullstack Web Development
+- Business Management Systems
+- Responsive Applications
+- API Integrations
+- Game Development
 
-## 🌟 Interesses
-- 🎮 Games e Desenvolvimento de Jogos
-- 📚 Leitura e Aprendizado Contínuo
-- 🎬 Filmes e Animes
-- 🏃‍♂️ Esportes
+## 🌟 Interests
+- 🎮 Games and Game Development
+- 📚 Reading and Continuous Learning
+- 🎬 Movies and Anime
+- 🏃‍♂️ Sports
 
-
-## 📫 Contato
+## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-cleyton-souza-freire-2670a023a/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jc.devops/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhoncleyton.dev/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5573998547885)
 
 ---
-⭐ *"Transformando ideias em código, criando soluções que fazem a diferença."* ⭐
+⭐ *"Transforming ideas into code, creating solutions that make a difference."* ⭐
