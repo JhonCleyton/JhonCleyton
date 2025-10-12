@@ -1,4 +1,6 @@
 # 👋 Hi, I'm Jhon Cleyton!
+![Snake animation](https://github.com/JhonCleyton/JhonCleyton/blob/output/snake.svg#gh-dark-mode-only)
+![Snake animation](https://github.com/JhonCleyton/JhonCleyton/blob/output/snake.svg#gh-light-mode-only)
 
 ## 👨‍💻 About Me
 Fullstack developer with 4 years of experience, currently working at P&S Industrias and founder of JC Bytes. At 28 years old, I combine a passion for technology with creativity to develop innovative solutions.
