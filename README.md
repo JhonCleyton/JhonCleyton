@@ -4,9 +4,13 @@
 
 ## 👨‍💻 About Me
 I am a Full Stack Software Engineer passionate about transforming business problems into technological solutions.
+
 Throughout my career, I have developed systems for the industrial, vehicle protection, public administration, and retail sectors, always participating in the entire development lifecycle: requirements gathering, architecture, development, deployment, user training, and support.
+
 I am the founder of JC Byte, where I fully developed the JC Byte POS—an ERP/POS system used commercially by retail businesses. The project features a Python/Flask backend, a web frontend, a custom API, an integrated Android app, PostgreSQL, Linux infrastructure (Gunicorn and Nginx), management dashboards, financial control, inventory management, cash flow tracking, reporting, and multi-level access control.
+
 I excel at understanding business processes, communicating with clients, and building products that deliver real value to companies.
+
 Key technologies: Python, Flask, PostgreSQL, JavaScript, HTML5, CSS3, Bootstrap, Linux, REST APIs, Gunicorn, Nginx, Socket.IO, CI/CD, and automated testing.
 
 ## 🚀 Main Projects
