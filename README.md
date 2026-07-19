@@ -33,7 +33,7 @@ Key technologies: Python, Flask, PostgreSQL, JavaScript, HTML5, CSS3, Bootstrap,
 ## 👨‍💼 Professional History
 
 ### P&S Food Industry
-**Full Stack Developer** | October 2024 - Present
+**Full Stack Developer** | October 2024 - July 2026
 - Development and maintenance of business management systems
 - Implementation of solutions for industrial process optimization
 - Systems integration and process automation
